@@ -7,17 +7,17 @@
   "info": "Listaswiseplay",
   "groups": [
     {
-      "name": "BARTOLO TV",
+      "name": "TV",
       "image": "https://i.imgur.com/L5RUMsy.png",
       "url": "https://play-blush.vercel.app/bartolotv.w3u"
     },
     {
-      "name": "BARTOLO PELIS",
+      "name": "PELIS",
       "image": "https://i.imgur.com/RZuPfC0.png",
       "url": "https://play-blush.vercel.app/bartolopelis.w3u"
     },
     {
-      "name": "BARTOLO DEPORTES",
+      "name": "DEPORTES",
       "image": "https://i.imgur.com/AyAdJAl.png",
       "url": "https://play-blush.vercel.app/bartolodep.w3u"
     },
