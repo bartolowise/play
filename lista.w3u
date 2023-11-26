@@ -13,19 +13,19 @@
         {
           "name": "BARTOLO TV | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://megalistawiseplay.vercel.app/megalista_tv.w3u",
+          "url": "https://play-blush.vercel.app/bartolotv.w3u",
           "import": true
         },
         {
           "name": "BARTOLO PELIS | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://megalistawiseplay.vercel.app/megalista_vod.w3u",
+          "url": "https://play-blush.vercel.app/bartolopelis.w3u",
           "import": true
         },
         {
           "name": "BARTOLO DEPORTES | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood",
+          "url": "https://play-blush.vercel.app/bartolodep.w3u",
           "import": true
         },
         {
