@@ -7,48 +7,6 @@
   "info": "Listaswiseplay",
   "groups": [
     {
-      "name": "Importar Listas",
-      "image": "https://i.imgur.com/YAaMwxN.png",
-      "stations": [
-        {
-          "name": "BARTOLO TV | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://play-blush.vercel.app/bartolotv.w3u",
-          "import": true
-        },
-        {
-          "name": "BARTOLO PELIS | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://play-blush.vercel.app/bartolopelis.w3u",
-          "import": true
-        },
-        {
-          "name": "BARTOLO DEPORTES | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://play-blush.vercel.app/bartolodep.w3u",
-          "import": true
-        },
-        {
-          "name": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://af-1-cionados.vercel.app/af1cionados.w3u",
-          "import": true
-        },
-        {
-          "name": "El Cano [Acestream] | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/base.txt",
-          "import": true
-        },
-        {
-          "name": "El Cano [HTTP] | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/get.txt",
-          "import": true
-        }
-      ]
-    },
-    {
       "name": "BARTOLO TV",
       "image": "https://i.imgur.com/L5RUMsy.png",
       "url": "https://play-blush.vercel.app/bartolotv.w3u"
@@ -66,8 +24,7 @@
     {
       "name": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX",
       "image": "https://i.postimg.cc/LX5vcPNv/sol-azteca-new.png",
-      "url": "q	3
-23"
+      "url": "https://af-1-cionados.vercel.app/af1cionados.w3u"
     },
     {
       "name": "El Cano [Acestream]",
