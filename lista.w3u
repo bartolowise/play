@@ -9,22 +9,22 @@
     {
       "name": "TV",
       "image": "https://cdn-icons-png.flaticon.com/512/1948/1948878.png",
-      "url": "https://play-blush.vercel.app/bartolotv.w3u"
+      "url": "https://bartolo.vercel.app/bartolotv.w3u"
     },
     {
       "name": "PELIS Y SERIES",
       "image": "https://cdn-icons-png.flaticon.com/512/2459/2459778.png",
-      "url": "https://play-blush.vercel.app/bartolopelis.w3u"
+      "url": "https://bartolo.vercel.app/bartolopelis.w3u"
     },
     {
       "name": "DEPORTES",
       "image": "https://cdn-icons-png.flaticon.com/512/857/857418.png",
-      "url": "https://play-blush.vercel.app/bartolodep.w3u"
+      "url": "https://bartolo.vercel.app/bartolodep.w3u"
     },
     {
       "name": "TOROS",
       "image": "https://cdn-icons-png.flaticon.com/512/489/489992.png",
-      "url": "https://play-blush.vercel.app/bartolotoros.w3u"
+      "url": "https://bartolo.vercel.app/bartolotoros.w3u"
     }
   ]
 }
