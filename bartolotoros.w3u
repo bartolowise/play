@@ -1,1 +1,15 @@
+{
+   "name":"TOROS",
+   "author":"Bartolo",
+   "image":"https://i.imgur.com/RZuPfC0.png",
+   "url":"https://megalistawiseplay.vercel.app/megalista_vod.w3u",
+   "info":"",
+   "groups":[ {
+			"name": "Toros 1",
+			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
+      "url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=MNDT020",
+			"referer": "https://www.freeshot.live/",
+                        "isHost": "true"
+                     }]
+}
 
