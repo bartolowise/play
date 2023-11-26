@@ -2527,59 +2527,7 @@
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
 		}]
-			}, {
-		"name": "Evento especial",
-		"image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
-		"info": "",
-		"stations": [{
-                            "name": "Zamora - Villarreal",
-			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
-                 "url": "https://emb.apl293.me//player/live.php?id=214386&w=100%&h=100%",
-			 "isHost": "true"
-                           }, {
-                           "name": "",
-			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
-                 "url": "https://wwwstream.pro/badir1/hIER0xdlRlY",
-               "referer" : "https://soccerstream100.co/",
-			 "isHost": "true"
-		},
-                {
-          "name": "Daddylive (VPN) | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://megalistawiseplay.vercel.app/megasport/daddylive.w3u",
-          "import": true
-        },
-        {
-          "name": "GMRS | Importar lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://megalistawiseplay.vercel.app/megasport/gmrs.w3u",
-          "import": true
-        },
-        {
-          "name": "Live TV (VPN) | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://megalistawiseplay.vercel.app/megasport/livetv.w3u",
-          "import": true
-        },
-        {
-          "name": "Sportzonline (VPN) | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://megalistawiseplay.vercel.app/megasport/sportzonline.w3u",
-          "import": true
-        },
-        {
-          "name": "Sportkart1 (VPN) | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://megalistawiseplay.vercel.app/megasport/sportkart1.w3u",
-          "import": true
-        },
-        {
-          "name": "BDNewsZH | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://megalistawiseplay.vercel.app/megasport/bdnewszh.w3u",
-          "import": true
-        }]
-    },
+			},
     {
       "name": "Daddylive (VPN)",
       "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
