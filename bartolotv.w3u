@@ -3,7 +3,6 @@
   "author": "BARTOLO",
   "image": "https://i.imgur.com/L5RUMsy.png",
   "url": "https://play-blush.vercel.app/bartolotv.w3u",
-  "telegram": "listaswiseplay",
   "info": "Canales Oficiales Gratuitos y 100% Legales",
   "groups": [
     {
@@ -31,13 +30,15 @@
       "image": "https://helmerluzo.github.io/RakutenTV_HL/rakuten.png",
       "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u"
     },
-   {"name": "TV INFANTIL",
+   {
+"name": "TV INFANTIL",
 "image": "https://i.blogs.es/dae294/cadenas-20infantiles/1366_2000.jpg",
 "online":"true",
 "url": "https://raw.githubusercontent.com/tirimosqui2/varios/main/tvinfantil.m3u#.m3u",
 "isHost": true,
 "import":"true"
-},{
+},
+{
       "name": "TV Música",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/music%20gif.gif",
 "imageScale": "",
@@ -45,57 +46,68 @@
 "name": "MusicTop",
 "image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
 "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
-"userAgent": "http-reconnect=true"  },
+"userAgent": "http-reconnect=true"  
+},
 {
-"name": "Today Latin Pop",
+      "name": "Today Latin Pop",
 "image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
 "url": "http://ott-linear-channels.stingray.com/hls/index/190.m3u8",
-"userAgent": "http-reconnect=true"  },
+"userAgent": "http-reconnect=true"  
+},
 {
-"name": "v2beat",
+      "name": "v2beat",
 "image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
 "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
-"userAgent": "http-reconnect=true"  },
+"userAgent": "http-reconnect=true"  
+},
 {
-"name": "muzzik-live",
+      "name": "muzzik-live",
 "image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
 "url": "http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8",
-"userAgent": "http-reconnect=true"  },
+"userAgent": "http-reconnect=true"  
+},
 {
-"name": "PopTV",
+      "name": "PopTV",
 "image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
 "url": "http://ott-linear-channels.stingray.com/hls/index/104.m3u8",
-"userAgent": "http-reconnect=true"  },
+"userAgent": "http-reconnect=true"  
+},
 {
-"name": "Hit List",
+      "name": "Hit List",
 "image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
 "url": "http://ott-linear-channels.stingray.com/hls/index/107.m3u8",
-"userAgent": "http-reconnect=true"  },
+"userAgent": "http-reconnect=true"  
+},
 {
-"name": "Activa TV",
+      "name": "Activa TV",
 "image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
 "url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
-"userAgent": "http-reconnect=true"  },
+"userAgent": "http-reconnect=true"  
+},
 {
-"name": "Play TV",
+      "name": "Play TV",
 "image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
 "url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
-"userAgent": "http-reconnect=true"  },
+"userAgent": "http-reconnect=true"  
+},
 {
-"name": "Portalfoxmix TV",
+      "name": "Portalfoxmix TV",
 "image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
 "url": "http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8",
-"userAgent": "http-reconnect=true"  },
+"userAgent": "http-reconnect=true" 
+},
 {
-"name": "Activa TV",
+      "name": "Activa TV",
 "image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
 "url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
-"userAgent": "http-reconnect=true"  },
-{"name": "MolaTV",
+"userAgent": "http-reconnect=true"  
+},
+{
+      "name": "MolaTV",
 "image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
 "url": "http://ventdelnord.tv:8080/mola/directe.m3u8",
 "userAgent": "http-reconnect=true"
-}]
-   }
-
+    }] 
+  }
 }
+  
