@@ -2527,36 +2527,7 @@
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
 		}]
-			},
-    {
-      "name": "Daddylive (VPN)",
-      "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-      "url": "https://megalistawiseplay.vercel.app/megasport/daddylive.w3u"
-    },
-    {
-      "name": "GMRS",
-      "image": "https://sportscentral.io/avatars/2boyqZBrhfTkQOrX3D.jpg",
-      "url": "https://megalistawiseplay.vercel.app/megasport/gmrs.w3u"
-    },
-    {
-      "name": "Live TV (VPN)",
-      "image": "https://i.imgur.com/SCDvj3z.png",
-      "url": "https://megalistawiseplay.vercel.app/megasport/livetv.w3u"
-    },
-    {
-      "name": "Sportkart1 (VPN)",
-      "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-      "url": "https://megalistawiseplay.vercel.app/megasport/sportkart1.w3u"
-    },
-    {
-      "name": "Sportzonline (VPN)",
-      "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-      "url": "https://megalistawiseplay.vercel.app/megasport/sportzonline.w3u"
-    },
-    {
-      "name": "BDNewsZH",
-      "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-      "url": "https://megalistawiseplay.vercel.app/megasport/bdnewszh.w3u"
+
     }]
 	
 }
