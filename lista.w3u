@@ -20,6 +20,11 @@
       "name": "DEPORTES",
       "image": "https://i.imgur.com/AyAdJAl.png",
       "url": "https://play-blush.vercel.app/bartolodep.w3u"
+    },
+    {
+      "name": "TOROS",
+      "image": "https://i.imgur.com/AyAdJAl.png",
+      "url": "https://play-blush.vercel.app/bartolotoros.w3u"
     }
   ]
 }
