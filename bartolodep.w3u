@@ -5,6 +5,11 @@
     "info": "Enlaces de internet",
     "url": "https://play-blush.vercel.app/bartolodep.w3u",
     "groups": [{
+             "name": "Lista para todo el mundo (Sin lucrarse)",
+            "image": "https://i.ibb.co/h2yMPqM/fotoefectos-com-final-7538212838645764191.jpg",
+            "info": "",
+            "stations": [{}]
+                   }, {
 		"name": "Liga NBA 🏀",
 		"image": "https://media0.giphy.com/media/5h5HJRTkYEvT2o6yvJ/giphy.gif?cid=ecf05e475a721abd784f8b6739313111b6b70a55503b08ec&rid=giphy.gif",
 		"info": "",
@@ -247,9 +252,8 @@
           "image": "https://content.sportslogos.net/logos/6/220/thumbs/22091682016.gif",
           "url": "https://givemereddit.eu/nba/hawks.html",
           "isHost": "true"
-		              }]
-	 },
-            {
+		              }] 
+                      },{
             "name": "NFL 🏈",
             "image": "https://assets.turbologo.com/blog/es/2019/12/19132851/NFL-logo-cover.jpg",
             "info": "",
@@ -1381,7 +1385,7 @@
               "referer" : "https://dlhd.sx/",
 			 "isHost":"true"
 		}]
-	 }, {
+	}, {
 		"name": "Motor mix",
 		"image": "https://1.bp.blogspot.com/-j-rUsRVKFfI/U0UT07TVhKI/AAAAAAAABYM/86Z3xt6KfmE/s1600/v8-motor.gif",
 		"info": "",
@@ -1408,7 +1412,7 @@
                              }, {
           "name": "Manujaz MotoRSport WRC (Android)",
 			"image": "https://i.ibb.co/6tGSdqD/Manu-ERC.jpg",
-	 "url":"https://vkvsd83.mycdn.me/hls/5531550943770.m3u8/sig/H2bSz9Ug-So/expires/1700253412104/srcIp/95.17.168.109/urls/45.136.21.45/clientType/14/srcAg/CHROME_ANDROID/mid/6623541406490/5531550943770_fullhd/index.m3u8",
+	"url":"https://vkvsd83.mycdn.me/hls/5531550943770.m3u8/sig/H2bSz9Ug-So/expires/1700253412104/srcIp/95.17.168.109/urls/45.136.21.45/clientType/14/srcAg/CHROME_ANDROID/mid/6623541406490/5531550943770_fullhd/index.m3u8",
                            "userAgent" : " "
                                  }, {
           "name": "Manujaz MotoRSport WRC (IOS)",
@@ -1448,7 +1452,7 @@
                   	"name": "M-F1*",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                              "url" : "http://nemochannels.vip:8080/play/xv8nNsdYcXcLBlRSbxZk2b8FEYknhAkPGivm52soLWTE9D-R1Y2cDkLb1OTDjST0",
-               "userAgent": "
+               "userAgent": ""
           }, {
           "name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
@@ -1481,12 +1485,12 @@
 	             }, {
 			"name": "Manujaz MotoRSport MOTO (Android)",
 			"image": "https://i.ibb.co/sqkyZKT/Moto-manu.jpg",
-       "url":"https://vkvsd196.mycdn.me/hls/5543936985626.m3u8/sig/uJQvX681Sdg/srcIp/95.17.168.109/urls/45.136.21.86/expires/1700854340192/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6630997371674/id/5543936985626/5543936985626_fullhd/index.m3u8",
+"url":"https://vkvsd196.mycdn.me/hls/5543936985626.m3u8/sig/uJQvX681Sdg/srcIp/95.17.168.109/urls/45.136.21.86/expires/1700854340192/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6630997371674/id/5543936985626/5543936985626_fullhd/index.m3u8",
                        "userAgentet" : " "
                       }, {
 			"name": "Manujaz MotoRSport MOTO (IOS)",
 			"image": "https://i.ibb.co/sqkyZKT/Moto-manu.jpg",
-       "url":"https://vkvsd196.mycdn.me/hls/5543936985626.m3u8/sig/2ffFPKStTLc/srcIp/95.17.168.109/urls/45.136.22.86/expires/1700854202750/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6630997371674/id/5543936985626/5543936985626_fullhd/index.m3u8",
+"url":"https://vkvsd196.mycdn.me/hls/5543936985626.m3u8/sig/2ffFPKStTLc/srcIp/95.17.168.109/urls/45.136.22.86/expires/1700854202750/clientType/14/srcAg/SAFARI_IPHONE_OTHER/fromCache/1/mid/6630997371674/id/5543936985626/5543936985626_fullhd/index.m3u8",
                        "userAgentet" : " "
 	              }, {
 			"name": "Moto GP",
@@ -1674,7 +1678,7 @@
             "referer" : "https://l1l1.to/",
              "isHost": "true"
 		}]
-	  }, {
+	}, {
 		"name": "Premier league",
 		"image": "https://i.ytimg.com/vi/SJReog-aZH4/maxresdefault.jpg",
 		"info": "",
@@ -1952,7 +1956,7 @@
 			"referer": "https://l1l1.to/",
              "isHost": "true"
 		}]
-	 }, {
+	}, {
 		"name": "Serie A (Italia)",
 		"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 		"info": "",
@@ -2527,8 +2531,21 @@
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
 		}]
-
-    }]
-	
+			}, {
+		"name": "Evento especial",
+		"image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
+		"info": "",
+		"stations": [{
+                            "name": "Zamora - Villarreal",
+			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
+                 "url": "https://emb.apl293.me//player/live.php?id=214386&w=100%&h=100%",
+			 "isHost": "true"
+                           }, {
+                           "name": "",
+			 "image": "https://previews.123rf.com/images/mushan/mushan1709/mushan170900009/86224007-ilustraci%C3%B3n-de-vector-de-icono-de-evento-especial.jpg",
+                 "url": "https://wwwstream.pro/badir1/hIER0xdlRlY",
+               "referer" : "https://soccerstream100.co/",
+			 "isHost": "true"
+		}]
+             }] 
 }
-
