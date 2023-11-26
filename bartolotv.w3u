@@ -7,48 +7,6 @@
   "info": "Canales Oficiales Gratuitos y 100% Legales",
   "groups": [
     {
-      "name": "Importar Listas",
-      "image": "https://i.imgur.com/YAaMwxN.png",
-      "stations": [
-        {
-          "name": "TDTChannels - LaQuay | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://www.tdtchannels.com/lists/tvradio.w3u",
-          "import": true
-        },
-        {
-          "name": "Pluto TV - HL | Añadir Lista ",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/AIO.w3u",
-          "import": true
-        },
-        {
-          "name": "Runtime TV - HL | Añadir Lista ",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/main/tv/w3u/RuntimeTV_tv.w3u",
-          "import": true
-        },
-        {
-          "name": "Samsung TV Plus - MJH | Añadir Lista ",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://megalistawiseplay.vercel.app/megalista_tv/samsungtvplus.w3u",
-          "import": true
-        },
-        {
-          "name": "Rakuten TV - HL | Añadir Lista ",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u",
-          "import": true
-        },
-        {
-          "name": "CanelaTV - HL | Añadir Lista ",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u",
-          "import": true
-        }
-      ]
-    },
-    {
       "name": "TDTChannels - LaQuay",
       "image": "https://pbs.twimg.com/profile_images/1247827338173108224/WfwOfmX4_400x400.jpg",
       "url": "https://www.tdtchannels.com/lists/tvradio.w3u"
@@ -72,16 +30,6 @@
       "name": "Rakuten TV - HL",
       "image": "https://helmerluzo.github.io/RakutenTV_HL/rakuten.png",
       "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u"
-    },
-    {
-      "name": "RadTV - HL",
-      "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
-      "url": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u"
-    },
-    {
-      "name": "CanelaTV - HL",
-      "image": "https://helmerluzo.github.io/CanelaTV_HL/canela.png",
-      "url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u"
     }
   ]
 }
