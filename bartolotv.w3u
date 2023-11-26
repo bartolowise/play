@@ -40,11 +40,11 @@
 },
 {
       "name": "TV Música",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/music%20gif.gif",
+"image": "https://cdn-icons-png.flaticon.com/512/5662/5662059.png",
 "imageScale": "",
 "stations":[{
 "name": "MusicTop",
-"image": "https://cdn-icons-png.flaticon.com/512/5662/5662059.png",
+"image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
 "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
 "userAgent": "http-reconnect=true"  
 },
